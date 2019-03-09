@@ -1,0 +1,28 @@
+C:\Users\rafae\source\repos\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.deps.json
+C:\Users\rafae\source\repos\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.json
+C:\Users\rafae\source\repos\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.dev.json
+C:\Users\rafae\source\repos\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.dll
+C:\Users\rafae\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cache
+C:\Users\rafae\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cs
+C:\Users\rafae\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfo.cs
+C:\Users\rafae\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\rafae\source\repos\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.pdb
+C:\Users\rafae\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.dll
+C:\Users\rafae\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.pdb
+C:\Projects\C Sharp\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.deps.json
+C:\Projects\C Sharp\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.json
+C:\Projects\C Sharp\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.dev.json
+C:\Projects\C Sharp\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.dll
+C:\Projects\C Sharp\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.pdb
+C:\Projects\C Sharp\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.csprojAssemblyReference.cache
+C:\Projects\C Sharp\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.csproj.CoreCompileInputs.cache
+C:\Projects\C Sharp\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cache
+C:\Projects\C Sharp\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cs
+C:\Projects\C Sharp\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfoInputs.cache
+C:\Projects\C Sharp\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfo.cs
+C:\Projects\C Sharp\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
+C:\Projects\C Sharp\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.dll
+C:\Projects\C Sharp\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.pdb
